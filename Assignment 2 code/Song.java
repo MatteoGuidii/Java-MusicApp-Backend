@@ -1,6 +1,3 @@
-// Matteo Guidi
-// 501207598
-
 /*
  * A Song is a type of AudioContent. A Song has extra fields such as Artist (person(s) singing the song) and composer 
  */
