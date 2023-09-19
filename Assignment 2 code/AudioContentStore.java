@@ -1,7 +1,3 @@
-// Matteo Guidi
-// 501207598
-
-
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
