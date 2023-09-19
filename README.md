@@ -14,12 +14,24 @@ A Java-based text simulation of a music application that enables users to manage
 - **Playlist Management**: Users can create, edit, and play playlists.
 - **Content Listing**: Users can list all the songs, audiobooks, podcasts, artists, and playlists in their library.
   
-## How to Use
-Run `MyAudioUI` and follow the on-screen instructions to manage your audio library.
+## How to Run
 
 ### Prerequisites
 
 - Java Development Kit (JDK)
+
+### Steps
+
+1. Open a terminal and navigate to the directory where the `.java` files are located.
+2. Compile the Java files using the following command:
+    ```bash
+    javac MyAudioUI.java
+    ```
+3. After successful compilation, run the application with:
+    ```bash
+    java MyAudioUI
+    ```
+You should now be able to interact with the application via the terminal.
   
 ## Commands
 Here are some of the commands you can use in the application:
