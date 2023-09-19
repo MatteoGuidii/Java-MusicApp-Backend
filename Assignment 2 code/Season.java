@@ -1,6 +1,3 @@
-// Matteo Guidi
-// 501207598
-
 import java.util.ArrayList;
 /*
  * Simple class to model podcast or other content seasons
