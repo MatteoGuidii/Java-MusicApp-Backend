@@ -49,6 +49,6 @@ Here are some of the commands you can use in the application:
 Feel free to fork this project and make your own changes. Pull requests are welcome.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
