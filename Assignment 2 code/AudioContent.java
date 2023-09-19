@@ -1,6 +1,3 @@
-// Matteo Guidi
-// 501207598
-
 /*
  *  Audio Content contains information common to all types of audio (e.g. songs, audiobooks etc)
  */
